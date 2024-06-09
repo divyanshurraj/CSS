@@ -1,0 +1,11 @@
+.main{
+    width: 100px;
+    height:200px;
+    background:red;
+    color:white;
+}
+.main:hover{
+    color:red;
+    background:white;
+
+}
